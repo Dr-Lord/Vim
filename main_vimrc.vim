@@ -26,6 +26,12 @@
 "       9 - Other Options
 "       0 - Helper Functions
 
+" Viktorian recommendations:
+"
+" Return to normal mode easily from insert mode
+" inoremap jk <Esc>
+" You MUST learn
+" inoremap <Esc> <nop>  
 
 
 """" 1 - BASICS """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
